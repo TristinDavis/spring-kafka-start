@@ -1,0 +1,7 @@
+
+spring:
+    kafka:
+        ssl:
+          truststore-location:
+        properties:
+          security.protocol: SSL
